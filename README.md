@@ -1,6 +1,6 @@
 # Ejercicio-Firebase
 
-En este ejercicio el proposito es realizar operaciones en una base de datos, las operaciones que contiene mi codigo son: 
+En este ejercicio el proposito es realizar operaciones en una base de datos, las operaciones que contiene mi codigo (ubicado en la branch master) son: 
  
  FirebasePushObject(): Se usa para agregar elementos en una lista sin sobrescribir los existentes.  
  FirebaseSaveObject(): Se usa con el setValue para reemplazar los datos existentes en esa referencia.  
